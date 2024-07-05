@@ -45,7 +45,7 @@
     "ramda": "0.23.0",
     "semver": "5.3.0",
 	"knex" : "2.4.1",
-	"cordova-simulator" : "0.2.0",
+	"cordova-simulator" : "0.3.0",
 	"mime" : "2.5.0",
 	"fileserver" : "0.1.2",
 	"optimist" : "0.5.0",
